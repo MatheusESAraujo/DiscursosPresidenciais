@@ -3,7 +3,8 @@ Trabalho Final da disciplina Introdução à Linguística Computacional - DAESZI
 
 <h2>
 <p> | Professores: Margarethe Steinberger Elias, André Kazuo Takahata  <p>
-<p> | Alunos: AAAAAAAAAAAAAAA - RA XXXXXXXXXXX <p>
+<p> | Alunos: <p>
+<p>           AAAAAAAAAAAAAAA - RA XXXXXXXXXXX <p>
 <p>           AAAAAAAAAAAAAAA - RA XXXXXXXXXXX <p>
 <p>           Matheus Eduardo dos Santos Araujo - RA 11039113 <p>
 <p>           AAAAAAAAAAAAAAA - RA XXXXXXXXXXX  <p>
