@@ -1,0 +1,22 @@
+
+Ambiente Virtual:
+C:\Users\mathe\Anaconda3\Scripts\activate
+
+Site e pesquisa:
+p vai de 0 até 298
+https://digitarq.arquivos.pt/results?r=True&p0=UnitTitle&o0=1&v0=PROCESSO+DE+REQUERIMENTO+DE+PASSAPORTE&p=298&s=CompleteUnitId&sd=False
+
+
+https://digitarq.arquivos.pt/details?id=6084866
+entrar nesse link e procurar //*[@id="DescriptionDetailsControl1_ImageButtonControlView_ButtonImage"]
+clicar 
+vai abrir a pagina 
+
+trocar datails por viewer
+
+listar a classe TreeNode
+
+apartir do 1 clicar de 2 em 2
+
+//*[@id="ViewerControl1_HyperLinkDownload"]
+
